@@ -56,6 +56,7 @@
 | [Create Figma plugins](https://yuanqing.github.io/create-figma-plugin/#quick-start) | How to develop Figma plugins | `Development`, `Tool` |
 | [What devs need](https://whatdevsneed.com/) | Tools Collection | `Development`, `Tool`, `Collection` |
 | [DevDocs](https://devdocs.io/) | DevDocs combines multiple API documentations in a fast, organized, and searchable interface | `Development`, `Tool`, `Collection` |
+| [Toolhunt](https://www.toolhunt.dev/) | Quality devtools that are changing the game | `Development`, `Tool`, `Collection` |
 
 ------------------------
 
