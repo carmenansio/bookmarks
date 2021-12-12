@@ -27,6 +27,7 @@
 | ----- | --------- | ----- |
 | [Smashing Magazine](https://www.smashingmagazine.com/) | Cool articles for improving design and development skills | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Canvas` |
 | [CSS Tricks](https://css-tricks.com/) | Keep up to date on webdev with articles and guides | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Canvas` |
+| [CSS In Real Life](https://css-irl.info/) | Tips, tricks and tutorials on the web’s most beautiful language | `CSS`, `Animation`, `Accessibility` |
 
 ------------------------
 
