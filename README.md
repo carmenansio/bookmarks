@@ -9,6 +9,7 @@
 [Dev Tools](#dev-tools) |
 [Palette Colors](#palette-colors) |
 [CSS](#css) |
+[CSS Layout Generator](#css-layout-generator) |
 [Design Systems](#design-systems) |
 [Free Games](#free-games) |
 [SVG Intro](#svg-intro) |
@@ -68,7 +69,9 @@
 
 | Link  | Comments  | Tags  |
 | ----- | --------- | ----- |
-| [Scale](https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white) | A generative way to create color scales | `Design`, `Tool` |
+| [Scale](https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white) | A generative way to create color scales | `Design`, `Tool`, `Color` |
+| [cccolor](https://fffuel.co/cccolor/) | cccolor a clean & simple color picker for web designers | `Design`, `Tool`, `Color` |
+| [cccolor](https://fffuel.co/cccolor/) | cccolor a clean & simple color picker for web designers | `Design`, `Tool`, `Color` |
 
 ------------------------
 
@@ -82,6 +85,17 @@
 | [CSS background patterns](https://superdesigner.co/tools/css-backgrounds) | A collection of 100+ free css patterns | `CSS`, `Patterns` |
 | [CSS Animations](https://css-animations.io/) | CSS animations course | `CSS`, `Animations`, `Learn`, `Course` |
 | [CSS Triggers](https://csstriggers.com/) | CSS triggers | `CSS`, `Performance` |
+| [CSS Gradient](https://cssgradient.io/) | CSS Gradient is a happy little website and free tool that lets you create a gradient background for websites | `CSS`, `Generator` |
+| [CSS Keyframes](https://keyframes.app/) | Create basic or complex CSS @keyframe animations with a visual timeline editor similar to video-editing software | `CSS`, `Animations`, `Learn`, `Course` |
+| [CSS Button Generator](https://cssbuttongenerator.com/) | Create CSS Buttons with this tool | `CSS`, `Tool` |
+
+------------------------
+
+### CSS Layout Generator
+
+| Link  | Comments  | Tags  |
+| ----- | --------- | ----- |
+| [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | CSS Grid Generator  | `CSS`, `Course` |
 
 ------------------------
 
@@ -100,6 +114,8 @@
 | ----- | --------- | ----- |
 | [CSS Selectors](https://flukeout.github.io/) | Learn CSS Selectors | `CSS`, `Game`, `Learn` |
 | [Cant Unsee](https://cantunsee.space/) | Select the design that is most correct | `UI`, `Game`, `Learn` |
+| [CSS Grid Garden](https://cssgridgarden.com/) | Learn CSS Grid with this game where you write CSS code to grow your carrot garden | `UI`, `Game`, `Learn`, `Layout` |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | Learn Flexbox with this game where you help Froggy and friends by writing CSS code | `UI`, `Game`, `Learn`, `Layout` |
 
 ------------------------
 
