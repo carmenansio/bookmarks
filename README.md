@@ -3,7 +3,7 @@
 > Bookmarks that I ❤️ 
 ------------------------
 
-| [Blogs](#blogs) |
+| [Blogs and Magazines](#blogs-and-magazines) |
 [Courses](#courses) |
 [Design Tools](#design-tools) |
 [Dev Tools](#dev-tools) |
@@ -21,13 +21,16 @@
 [People you should follow on codepen](#people-you-should-follow-on-codepen) |
 
 
-### Blogs
+### Blogs and Magazines
 
 | Link  | Comments  | Tags  |
 | ----- | --------- | ----- |
-| [Smashing Magazine](https://www.smashingmagazine.com/) | Cool articles for improving design and development skills | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Canvas` |
-| [CSS Tricks](https://css-tricks.com/) | Keep up to date on webdev with articles and guides | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Canvas` |
+| [Smashing Magazine](https://www.smashingmagazine.com/) | Cool articles for improving design and development skills | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Newsletter` |
+| [CSS Tricks](https://css-tricks.com/) | Keep up to date on webdev with articles and guides | `Animation`, `SVG`, `Javascript`, `GreenSock`, `GSAP`, `Newsletter` |
 | [CSS In Real Life](https://css-irl.info/) | Tips, tricks and tutorials on the web’s most beautiful language | `CSS`, `Animation`, `Accessibility` |
+| [Modern CSS](https://moderncss.dev/) | Modern CSS Solutions for Old CSS Problems | `CSS`, `Animation`, `WebDev`, `SVG`, `Javascript` |
+| [Frontend Horse](https://frontend.horse/) | Learn frontend development tricks from some of the web’s best creative developers | `CSS`, `Animation`, `WebDev`, `Articles`, `Newsletter` |
+| [Hey Designer](https://heydesigner.com/) | Daily curated design knowledge | `CSS`, `Animation`, `Design`, `SVG` |
 
 ------------------------
 
