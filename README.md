@@ -71,7 +71,6 @@
 | ----- | --------- | ----- |
 | [Scale](https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white) | A generative way to create color scales | `Design`, `Tool`, `Color` |
 | [cccolor](https://fffuel.co/cccolor/) | cccolor a clean & simple color picker for web designers | `Design`, `Tool`, `Color` |
-| [cccolor](https://fffuel.co/cccolor/) | cccolor a clean & simple color picker for web designers | `Design`, `Tool`, `Color` |
 
 ------------------------
 
